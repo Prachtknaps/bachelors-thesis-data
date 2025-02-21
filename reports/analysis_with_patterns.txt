@@ -1,0 +1,179 @@
+Durchschnittswerte:
+Average LOC: 27.50
+Average Complexity: 1.48
+Average Function Count: 3.12
+
+Total LOC: 935
+Totatl Function Count: 106
+
+Einzelne File-Analysen:
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Enemy\Enemy.cs
+  LOC: 69
+  Complexity: 2.60
+  Function Count: 5
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Enemy\EnemySpawner.cs
+  LOC: 46
+  Complexity: 2.67
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\GameManager.cs
+  LOC: 123
+  Complexity: 2.06
+  Function Count: 16
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\ScoreManager.cs
+  LOC: 32
+  Complexity: 1.00
+  Function Count: 5
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\ScoreText.cs
+  LOC: 15
+  Complexity: 1.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\Timer.cs
+  LOC: 44
+  Complexity: 1.14
+  Function Count: 7
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\TimerBar.cs
+  LOC: 16
+  Complexity: 1.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\TimerText.cs
+  LOC: 15
+  Complexity: 1.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\State\GameOverState.cs
+  LOC: 31
+  Complexity: 3.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\State\IGameState.cs
+  LOC: 4
+  Complexity: 0.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\State\MainMenuState.cs
+  LOC: 14
+  Complexity: 1.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\State\PauseMenuState.cs
+  LOC: 13
+  Complexity: 1.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Game\State\RunningState.cs
+  LOC: 14
+  Complexity: 1.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\CollectableWeapon.cs
+  LOC: 35
+  Complexity: 6.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\IWeapon.cs
+  LOC: 8
+  Complexity: 0.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\IWeaponFactory.cs
+  LOC: 5
+  Complexity: 0.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\WeaponSpawner.cs
+  LOC: 32
+  Complexity: 1.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\BalloonGun\Balloon.cs
+  LOC: 29
+  Complexity: 2.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\BalloonGun\BalloonGun.cs
+  LOC: 41
+  Complexity: 1.50
+  Function Count: 6
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\BalloonGun\BalloonGunFactory.cs
+  LOC: 13
+  Complexity: 1.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\ShrinkRayGun\ShrinkRayGun.cs
+  LOC: 35
+  Complexity: 2.00
+  Function Count: 4
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\ShrinkRayGun\ShrinkRayGunFactory.cs
+  LOC: 15
+  Complexity: 1.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\Strategies\BalloonShotStrategy.cs
+  LOC: 23
+  Complexity: 3.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\Strategies\ContinuousShotStrategy.cs
+  LOC: 22
+  Complexity: 4.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\Strategies\IShootStrategy.cs
+  LOC: 4
+  Complexity: 0.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Items\Weapons\Strategies\SingleShotStrategy.cs
+  LOC: 21
+  Complexity: 4.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Observer\Observable.cs
+  LOC: 6
+  Complexity: 0.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Observer\Observer.cs
+  LOC: 4
+  Complexity: 0.00
+  Function Count: 1
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Player\IdleState.cs
+  LOC: 17
+  Complexity: 1.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Player\IPlayerState.cs
+  LOC: 5
+  Complexity: 0.00
+  Function Count: 2
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Player\JumpingState.cs
+  LOC: 18
+  Complexity: 1.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Player\PlayerController.cs
+  LOC: 132
+  Complexity: 2.27
+  Function Count: 11
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Player\SprintingState.cs
+  LOC: 17
+  Complexity: 1.00
+  Function Count: 3
+----------------------------------------
+File: C:\Users\Julian\Dev\Unity\AngryCapsulesWithPatterns\Assets\Scripts\Player\WalkingState.cs
+  LOC: 17
+  Complexity: 1.00
+  Function Count: 3
+----------------------------------------
